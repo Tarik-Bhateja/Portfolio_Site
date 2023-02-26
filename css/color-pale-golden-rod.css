@@ -2,112 +2,112 @@
 	COLOR Pale Golden Rod
 ==============================*/
 ::selection {
-  background: #7d8bc1;
+  background: #6971b7cf;
 }
 
 a, a:focus {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 a:hover, a:active {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .primary-menu ul.navbar-nav > li.dropdown .dropdown-menu li:hover > a:not(.btn) {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .primary-menu.navbar-line-under-text ul.navbar-nav > li > a:not(.btn):after {
-  border-color: #7d8bc1;
+  border-color: #6971b7cf;
 }
 
 .navbar-expand-none ul.navbar-nav li:hover > a:not(.btn), .navbar-expand-none ul.navbar-nav li > a.active:not(.btn) {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .navbar-expand-sm ul.navbar-nav li:hover > a:not(.btn), .navbar-expand-sm ul.navbar-nav li > a.active:not(.btn) {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 @media (max-width: 575.98px) {
   .navbar-expand-md ul.navbar-nav li:hover > a:not(.btn), .navbar-expand-md ul.navbar-nav li > a.active:not(.btn) {
-    color: #7d8bc1;
+    color: #6971b7cf;
   }
 }
 
 @media (max-width: 767.98px) {
   .navbar-expand-lg ul.navbar-nav li:hover > a:not(.btn), .navbar-expand-lg ul.navbar-nav li > a.active:not(.btn) {
-    color: #7d8bc1;
+    color: #6971b7cf;
   }
 }
 
 @media (max-width: 991.98px) {
   .navbar-expand-xl ul.navbar-nav li:hover > a:not(.btn), .navbar-expand-xl ul.navbar-nav li > a.active:not(.btn) {
-    color: #7d8bc1;
+    color: #6971b7cf;
   }
 }
 
 /*== Secondary Nav ==*/
 .secondary-nav.nav.alternate .nav-item .nav-link.active {
-  border-color: #7d8bc1;
+  border-color: #6971b7cf;
 }
 
 /* Page Header */
 .page-header.page-header-text-dark .breadcrumb > li a:hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 /* Accordion */
 .accordion:not(.accordion-flush) .accordion-header .accordion-button {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 /* Nav */
 .nav-tabs .nav-item .nav-link.active:after {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 .nav-pills .nav-link:not(.active):hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 /* Brands Grid */
 .brands-grid > .row > div a:hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 #footer .nav .nav-item .nav-link:focus {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 #footer .nav .nav-link:hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 #footer .footer-copyright .nav .nav-link:hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 /* Back to Top */
 #back-to-top:hover {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 /* Extras */
 .bg-primary, .badge-primary {
-  background-color: #7d8bc1 !important;
+  background-color: #6971b7cf !important;
 }
 
 .text-primary {
-  color: #7d8bc1 !important;
+  color: #6971b7cf !important;
 }
 
 .btn-link {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .btn-link:hover {
-  color: #7d8bc1 !important;
+  color: #6971b7cf !important;
 }
 
 .text-muted {
@@ -119,47 +119,47 @@ a:hover, a:active {
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
-  background-color: #7d8bc1 !important;
+  background-color: #6971b7cf !important;
 }
 
 .border-primary {
-  border-color: #7d8bc1 !important;
+  border-color: #6971b7cf !important;
 }
 
 .btn-primary {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .btn-primary:hover {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .btn-primary.focus, .btn-primary:focus {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .btn-outline-primary, .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active {
-  color: #7d8bc1;
-  border-color: #7d8bc1;
+  color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .btn-outline-primary:hover, .btn-outline-primary:not(:disabled):not(.disabled).active:hover, .btn-outline-primary:not(:disabled):not(.disabled):active:hover {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
   color: #fff;
 }
 
 .progress-bar,
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link, .dropdown-item.active, .dropdown-item:active {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 .page-item.active .page-link,
@@ -167,39 +167,39 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 .custom-control-input:checked ~ .custom-control-label::before,
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label:before,
 .custom-control-input:checked ~ .custom-control-label:before {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .list-group-item.active {
-  background-color: #7d8bc1;
-  border-color: #7d8bc1;
+  background-color: #6971b7cf;
+  border-color: #6971b7cf;
 }
 
 .page-link {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .page-link:hover {
-  color: #7d8bc1;
+  color: #6971b7cf;
 }
 
 .owl-theme.single-slideshow .owl-dots .owl-dot.active span, .owl-theme.single-slideshow .owl-dots .owl-dot:hover span {
-  border-color: #7d8bc1;
+  border-color: #6971b7cf;
 }
 
 .owl-theme.single-slideshow .owl-dots .owl-dot.active span:after, .owl-theme.single-slideshow .owl-dots .owl-dot:hover span:after {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-  border-color: #7d8bc1;
+  border-color: #6971b7cf;
 }
 
 .owl-theme .owl-dots .owl-dot.active span:after, .owl-theme .owl-dots .owl-dot:hover span:after {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
 
 .owl-theme.owl-light .owl-dots .owl-dot.active span:after, .owl-theme.owl-light .owl-dots .owl-dot:hover span:after {
-  background-color: #7d8bc1;
+  background-color: #6971b7cf;
 }
