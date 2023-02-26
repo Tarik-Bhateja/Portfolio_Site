@@ -13,8 +13,8 @@
 // Preloader
 $(window).on('load', function () {
 	$('.lds-ellipsis').fadeOut(); // will first fade out the loading animation
-	$('.preloader').delay(151).fadeOut('slow'); // will fade out the white DIV that covers the website.
-	$('body').delay(151);
+	$('.preloader').delay(0).fadeOut('slow'); // will fade out the white DIV that covers the website.
+	$('body').delay(0);
 });
 
 
